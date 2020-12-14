@@ -2,7 +2,7 @@
 
 **batata negrito** _batata inclinada_ 
 
-:p
+:p (Isso é um teste da formatação Markdown)
 
 
 
